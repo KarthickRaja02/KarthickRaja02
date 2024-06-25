@@ -34,3 +34,6 @@ Student @ Karpagam Institute of Technology, Coimbatore.<br/> <br/>
 
 ### [Leetcode](https://leetcode.com/u/Karthick_raja-02/) :
 ![Leetcode stats](https://leetcode.card.workers.dev/Karthick_raja-02?theme=dark&font=baloo&extension=activity)
+
+### [Codechef](https://www.codechef.com/users/karthi_20eca38) :
+- PROGRAMS SOLVED : 287
