@@ -14,16 +14,16 @@ Student @ Karpagam Institute of Technology, Coimbatore.<br/> <br/>
 <br/><br/>
 
 ### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>  <img height="50" width="50" src="https://cdn1.iconfinder.com/data/icons/hawcons/32/700048-icon-89-document-file-sql-512.png"/><img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>  <img height="50" width="50" src="https://cdn1.iconfinder.com/data/icons/hawcons/32/700048-icon-89-document-file-sql-512.png"/>
 
 ## Problem Solving:
 
-### [Skill Rack](https://rb.gy/95w1x6) : 
-- PROGRAMS SOLVED : 1366
-> C-Programming : 638 <br/>
-> Python : 405<br/>
-> JAVA : 270<br/>
-> SQL : 53<br/>
+### [Skill Rack]([https://rb.gy/95w1x6](https://www.skillrack.com/faces/resume.xhtml?id=373327&key=f9408bb776eb0bf861370a0996f61e487c86aa9a)) : 
+- PROGRAMS SOLVED : 1554
+> JAVA : 376 <br/>
+> C-Programming : 963 <br/>
+> Python : 171<br/>
+> SQL : 43<br/>
 
 
 ### [GeeksForGeeks](https://www.geeksforgeeks.org/user/logu_n_j/) :
