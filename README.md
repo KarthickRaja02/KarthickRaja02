@@ -26,5 +26,5 @@ Student @ Karpagam Institute of Technology, Coimbatore.<br/> <br/>
 > SQL : 43<br/>
 
 
-### [GeeksForGeeks](https://www.geeksforgeeks.org/user/logu_n_j/) :
+### [GeeksForGeeks](https://www.geeksforgeeks.org/user/karthickraja14911/) :
 ![GeeksForGeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=logu_n_j)
