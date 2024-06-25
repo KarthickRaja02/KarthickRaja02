@@ -30,3 +30,7 @@ Student @ Karpagam Institute of Technology, Coimbatore.<br/> <br/>
 
 ### [GeeksForGeeks](https://www.geeksforgeeks.org/user/karthickraja14911/) :
 ![GeeksForGeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=karthickraja14911)
+
+
+### [Leetcode](https://leetcode.com/u/Karthick_raja-02/) :
+![Leetcode stats](https://leetcode.card.workers.dev/Karthick_raja-02?theme=dark&font=baloo&extension=activity)
